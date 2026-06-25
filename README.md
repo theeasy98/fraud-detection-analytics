@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection — SQL + Tableau
+🔗 **[View live dashboard](https://public.tableau.com/app/profile/israel.joseph5937/viz/CreditCardFraudDetectionDashboard_17823432893440/Dashboard1)**
 
 I built this project to practice the full analytics workflow end to end: take raw transaction data, clean it in SQL, engineer some risk features, and turn it into a dashboard someone could actually use to spot fraud patterns.
 
